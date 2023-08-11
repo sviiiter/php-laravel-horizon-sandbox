@@ -1,3 +1,3 @@
 # Laravel horizon worker test
 
-This is a project to mess with Horizon and its workers
+The point of project creating is just a sandbox to build queue's app+redis deployment by docker -compose and mess with Horizon and its workers
